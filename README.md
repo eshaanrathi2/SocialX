@@ -4,3 +4,5 @@
 • Applied Girvan Newman algorithm and Ravasz algorithm to find communities in graph.
 
 • Created a scale-free network and applied Independent Cascade Model.
+
+The code (same as the submitted ipynb) is embedded in the project report. 

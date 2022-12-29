@@ -1,4 +1,4 @@
-# SNA project description:
+# Social Network Graph Analysis project description:
 • Computed centrality measures, clustering coefficients, reciprocity and transitivity of Celegans and Jazz Musicians datasets.
 
 • Applied Girvan Newman algorithm and Ravasz algorithm to find communities in graph.

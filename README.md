@@ -1,4 +1,4 @@
-# Knowledge Graphs:
+# Social Network Graphs:
 Structured relationships between humans and real life entities through graphs, generating amazing results that can solve pressing problems in IT, social media, healthcare etc.
 
 # Datasets:

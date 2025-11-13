@@ -1,5 +1,5 @@
 # Social Network Graphs:
-Structured relationships between humans and real life entities through graphs, generating amazing results that can solve pressing problems in IT, social media, healthcare etc.
+Graphical representation of social relationships
 
 # Datasets:
 1. Caenorhabditis Network
@@ -8,7 +8,7 @@ Structured relationships between humans and real life entities through graphs, g
 2. Jazz Network
 ![assets/jazz.png](assets/jazz.png)
 
-# Problems Solved:
+# Modules:
 1. Compute centrality measures, clustering coefficients (both local and global), and reciprocity and transitivity using appropriate algorithms for the both datasets.
 
 2. Use an algorithm package in Python to find the maximum connected component in a given graph G. Let us denote the number of nodes in the giant component of graph G as N_G. Vary ⟨k⟩ from 0 to 5 with an increment of 0.1. For each value of ⟨k⟩ find the ratio N_G/N where N is the number of nodes in the graph. Plot this ratio with respect to ⟨k⟩. Take ⟨k⟩ as x-axis and ratio N_G/N as y-axis.
